@@ -48,11 +48,13 @@ cd Study_track_AI_recommendation
 python3 -m venv venv
 ```
 ### 2️⃣ Create a Virtual Environment
+```
 python3 -m venv venv
 
 source venv/bin/activate   # For macOS/Linux
 #### or
 venv\Scripts\activate      # For Windows
+```
 
 ### 3️⃣ Install Dependencies
 
@@ -119,7 +121,7 @@ Study_track_AI_recommendation/
 **Keerthi Annapaneni**  
 Aspiring Software Engineer | AI & Data Enthusiast  
 
-📧 Email: [keerthiannapaneni@gmail.com](mailto:annapanenikeerthi4@gmail.com)  
+📧 Email: [annapanenikeerthi4@gmail.com](mailto:annapanenikeerthi4@gmail.com)  
 🌐 GitHub: [KeerthiAnnapaneni](https://github.com/KeerthiAnnapaneni)
 
 ---
