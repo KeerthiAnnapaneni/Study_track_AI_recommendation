@@ -4,7 +4,7 @@
 
 ---
 
-## [📄 Click here to view Final Presentation (PDF)](https://github.com/KeerthiAnnapaneni/Study_track_AI_recommendation/raw/main/final%20ppt.pdf)
+## [📄 View Study Habits PPT](https://github.com/KeerthiAnnapaneni/Study_track_AI_recommendation/raw/main/ppt%20on%20study%20habits.pdf)
 
 
 ## 🌟 Overview
