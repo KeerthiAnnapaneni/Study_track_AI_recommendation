@@ -4,6 +4,9 @@
 
 ---
 
+## [📄 Click here to view Final Presentation (PDF)](https://github.com/KeerthiAnnapaneni/Study_track_AI_recommendation/raw/main/final%20ppt.pdf)
+
+
 ## 🌟 Overview
 
 **StudyTrack AI** leverages artificial intelligence and machine learning to analyze learners’ progress, skills, and interests to suggest the most suitable next learning steps.  
@@ -115,6 +118,7 @@ Study_track_AI_recommendation/
 - 🚀 Designed to showcase **end-to-end project execution** — from AI modeling to deployment.
 
 ---
+
 
 ## 👩‍💻 Author
 
